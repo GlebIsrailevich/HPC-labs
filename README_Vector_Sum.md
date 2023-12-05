@@ -5,5 +5,4 @@
 распределенных нитей параллельно выполнявшие вычисления крупного вектора производили эту операцию за примерно постоянное время, 
 увеличение значений вектора для CPU линейно увеличивал время выполнения данной последовательной операции
 
-Ссылка на google collaboratory:
-https://colab.research.google.com/drive/1_KnoFkh7hH0gTF-juyClVxlrLpuVJxOZ?usp=sharing
+[Ссылка на google collaboratory](https://colab.research.google.com/drive/1_KnoFkh7hH0gTF-juyClVxlrLpuVJxOZ?usp=sharing)
