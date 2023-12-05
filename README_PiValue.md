@@ -3,5 +3,4 @@
 Алгоритм подсчета числа ПИ на GPU был реализован с помощью  модуля numba и функций библиотеки numba.random - xoroshiro128, данная функция является аналогом библиотеки CURAND
 Был распараллелен сам процесс генерации х и у а также проверка лежит ли точка в цикле либо же в квадрате, а также последующая калькуляция числа ПИ по формуле Pi = 4 * (число точек в круге/число точек вне круга)
 Далее был проведен подсчет разницы во времени операции
-Ссылка на google collaboratory:
-https://colab.research.google.com/drive/1qhb172YTTUNn0K6WKccrcTtgEGMNQofU?usp=sharing
+[Ссылка на google collaboratory](https://colab.research.google.com/drive/1qhb172YTTUNn0K6WKccrcTtgEGMNQofU?usp=sharing)
