@@ -6,5 +6,4 @@
 Сам процесс перемножения матриц с помощью мощностей GPU был распараллелен через функции модуля numba.
 Результаты, графики, а также краткие описания различия операций приведены в файле с кодом.
 
-Ссылка на google collaboratory:
-https://colab.research.google.com/drive/1TU47MphmNUGkN0gx2U-jCcFQ9Am0X1gK?usp=sharing
+[Ссылка на google collaboratory](https://colab.research.google.com/drive/1TU47MphmNUGkN0gx2U-jCcFQ9Am0X1gK?usp=sharing)
